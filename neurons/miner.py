@@ -50,7 +50,7 @@ class Miner(BaseMinerNeuron):
                 "framework": "python-heuristic",
                 "license": "MIT",
                 "repo_url": "https://github.com/codeskipdev-png/intel_sota",
-                "repo_commit": "7ad4299",
+                "repo_commit": "060c97a",
                 "notes": "Reference heuristic miner shipped with the Poker44 subnet.",
                 "open_source": True,
                 "inference_mode": "remote",
