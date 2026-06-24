@@ -1,0 +1,11 @@
+#Environments
+.env
+.envDev
+.envProd
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.venv
+output/
+poker44.egg-info/
+

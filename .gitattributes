@@ -1,0 +1,4 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+poker_detect/dist/*.onnx filter=lfs diff=lfs merge=lfs -text
+poker_detect/dist/*.onnx.data filter=lfs diff=lfs merge=lfs -text
+poker_detect/dist/*.json filter=lfs diff=lfs merge=lfs -text
